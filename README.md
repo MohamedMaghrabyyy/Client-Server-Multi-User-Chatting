@@ -41,5 +41,4 @@ The Simple Client-Server Chat Application is a basic chat system implemented in 
 
 ## Notes
 - Ensure that the server is running before clients attempt to connect.
-- Customize the code to fit your specific use case or extend the functionality as needed.
 
