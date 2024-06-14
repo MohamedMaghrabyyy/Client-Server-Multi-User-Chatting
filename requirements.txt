@@ -1,0 +1,6 @@
+colorama==0.4.6
+socket==0.0.0
+threading==0.0.1
+hashlib==20081119
+sqlite3==3.36.0
+sys==1.0.0
